@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SnehaJadhav27/DSA/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SnehaJadhav27/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/SnehaJadhav27/DSA/tree/master/0986-interval-list-intersections) |
+| [1046-last-stone-weight](https://github.com/SnehaJadhav27/DSA/tree/master/1046-last-stone-weight) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SnehaJadhav27/DSA/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/SnehaJadhav27/DSA/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
