@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/SnehaJadhav27/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SnehaJadhav27/DSA/tree/master/0057-insert-interval) |
+| [0347-top-k-frequent-elements](https://github.com/SnehaJadhav27/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/SnehaJadhav27/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SnehaJadhav27/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/SnehaJadhav27/DSA/tree/master/0525-contiguous-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SnehaJadhav27/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SnehaJadhav27/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SnehaJadhav27/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SnehaJadhav27/DSA/tree/master/0496-next-greater-element-i) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SnehaJadhav27/DSA/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/SnehaJadhav27/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SnehaJadhav27/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SnehaJadhav27/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SnehaJadhav27/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
@@ -94,5 +98,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SnehaJadhav27/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/SnehaJadhav27/DSA/tree/master/1046-last-stone-weight) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SnehaJadhav27/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SnehaJadhav27/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SnehaJadhav27/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
