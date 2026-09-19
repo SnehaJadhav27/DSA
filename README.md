@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SnehaJadhav27/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SnehaJadhav27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/SnehaJadhav27/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/SnehaJadhav27/DSA/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SnehaJadhav27/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sorting
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SnehaJadhav27/DSA/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/SnehaJadhav27/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/SnehaJadhav27/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/SnehaJadhav27/DSA/tree/master/0767-reorganize-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SnehaJadhav27/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SnehaJadhav27/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/SnehaJadhav27/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/SnehaJadhav27/DSA/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SnehaJadhav27/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SnehaJadhav27/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SnehaJadhav27/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SnehaJadhav27/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/SnehaJadhav27/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/SnehaJadhav27/DSA/tree/master/0767-reorganize-string) |
 ## Linked List
 |  |
 | ------- |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SnehaJadhav27/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/SnehaJadhav27/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/SnehaJadhav27/DSA/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/SnehaJadhav27/DSA/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
 |  |
@@ -123,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/SnehaJadhav27/DSA/tree/master/0692-top-k-frequent-words) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/SnehaJadhav27/DSA/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
