@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/SnehaJadhav27/DSA/tree/master/0057-insert-interval) |
 | [0347-top-k-frequent-elements](https://github.com/SnehaJadhav27/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/SnehaJadhav27/DSA/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/SnehaJadhav27/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/SnehaJadhav27/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/SnehaJadhav27/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SnehaJadhav27/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/SnehaJadhav27/DSA/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/SnehaJadhav27/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/SnehaJadhav27/DSA/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/SnehaJadhav27/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/SnehaJadhav27/DSA/tree/master/0767-reorganize-string) |
 ## Quicksort
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SnehaJadhav27/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/SnehaJadhav27/DSA/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/SnehaJadhav27/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/SnehaJadhav27/DSA/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/SnehaJadhav27/DSA/tree/master/1046-last-stone-weight) |
@@ -131,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/SnehaJadhav27/DSA/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/SnehaJadhav27/DSA/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
