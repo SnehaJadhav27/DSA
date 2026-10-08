@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SnehaJadhav27/DSA/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/SnehaJadhav27/DSA/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -136,4 +137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0502-ipo](https://github.com/SnehaJadhav27/DSA/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/SnehaJadhav27/DSA/tree/master/0767-reorganize-string) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SnehaJadhav27/DSA/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SnehaJadhav27/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SnehaJadhav27/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
