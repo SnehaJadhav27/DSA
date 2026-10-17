@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SnehaJadhav27/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SnehaJadhav27/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SnehaJadhav27/DSA/tree/master/0039-combination-sum) |
+| [0113-path-sum-ii](https://github.com/SnehaJadhav27/DSA/tree/master/0113-path-sum-ii) |
 ## Tree
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/SnehaJadhav27/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SnehaJadhav27/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/SnehaJadhav27/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/SnehaJadhav27/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SnehaJadhav27/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SnehaJadhav27/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SnehaJadhav27/DSA/tree/master/0226-invert-binary-tree) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/SnehaJadhav27/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SnehaJadhav27/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/SnehaJadhav27/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/SnehaJadhav27/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SnehaJadhav27/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SnehaJadhav27/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SnehaJadhav27/DSA/tree/master/0226-invert-binary-tree) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/SnehaJadhav27/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SnehaJadhav27/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/SnehaJadhav27/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/SnehaJadhav27/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SnehaJadhav27/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SnehaJadhav27/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SnehaJadhav27/DSA/tree/master/0226-invert-binary-tree) |
